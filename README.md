@@ -1,5 +1,7 @@
 # :desktop_computer: StrutCraftLib
-## _Custom data structures with most needed methods_
+## _Custom data structures with most needed methods..._
 
-> [!IMPORTANT]
+<br>
+
+> [!NOTE]
 > Under development!
